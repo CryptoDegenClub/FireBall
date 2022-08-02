@@ -1,4 +1,5 @@
-![FireBall](https://imgur.com/LWe1wX4)
+
+![fireball256](https://user-images.githubusercontent.com/110438409/182365772-4a5d08bf-e5b5-4ec2-87fd-f08b6bf15277.png)
 
 # FireBall
 ## Fire Ball the Phoenix blockchain degen token with maximum supply 10 million Fire BALL tokens.
