@@ -18,6 +18,6 @@
 ### Description: FireBall is a fun token with maximum supply 10m tokens created on Phoenix chain as an experimental base. FBall token is for 100% degen, 80% liquiidity will be locked for 30 months when liquidity in pool reaches 10000PHX, website will be launched at 50000PHX in pool.
 
 
-### License MIT License
+### License: MIT License
 
-### Crypto Degen Club
+### Group: Crypto Degen Club
